@@ -1,7 +1,7 @@
 # marvel22
 BScDevOps Assign - Team Marvel
 
-Table of Contents
+# Table of Contents
 Preamble
 Product Owner
 Rockstars
@@ -25,40 +25,42 @@ This is the online repository for the DevOps Assignment.
 <>.
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
-Scrum Master
+# Scrum Master
 <>
 
-Product Owner
+# Product Owner
 <>
 
-Rockstars
+# Rockstars
 <>
 <>
 <>
 
-Project Deadline
+# Project Deadline
 Refer to BB for deadlines
 
-Project Specification
+# Project Specification
 Clean and simple design
 User access levels (client, administrator)
 Includes at least one self developed api and one webservice
 To be run over <specify platform>
 
-Frameworks
+# Frameworks
 Database
 Database persistence technology
 Define the buisness Requirements
 Named queries and database triggers for security
 Regex for cleansing and validation of data before sending to the database.
-Useful Links
+
+# Useful Links
 Project Slack: <>
 GitHub: <>
 Jira: <>
-More Information
+
+# More Information
 For more information visit our other sections
 
-Section	Description
+# Section	Description
 Process	Describes the companies process
 Project Log	Log of project activities
 Costings	Overview of the project cost
@@ -70,11 +72,12 @@ SLAs	Service level agreements
 Risk Management	How we manage risk
 Security	Overview of security
 Project Log	Team log for the project
-Risk Register
+
+# Risk Register
 These are the current Risks on the project, re-aligned on a weekly basis
 
 
-Tenants of Design
+# Tenants of Design
 Dedication to clean, secure, performant and self documented code
     code Frameworks used
     code coverage tool used
@@ -82,21 +85,24 @@ Dedication to clean, secure, performant and self documented code
     performance testing tool to be used
 Documentation / code commenting (javadoc)/seperate branch
 Datastore for persistence
-Testing:
+
+# Testing:
     Unit testing
     integration testing
     UA
-Environments:
+# Environments:
     staging and production
     tight configuration management for consistency and reproducibility
     automated creation and deployments
     integrated and automated pipeline (commit -> test -> deploy)
-Github version control:
+# Github version control:
     branches used
     version/release management
-Agile project management methods/principles (jira)
-Social Contract
-Meetings
+
+# Agile project management methods/principles (jira)
+
+# Social Contract
+# Meetings
 Stand-ups will occur on Every <<Date/Time >> during class and <<Date/Time>> using Automated bot.
 The order that people give their updates will be based on <<specify how you chose the order>> of those present at the meeting.
 Updates will be in the form: What I've done, Impediments, What I plan to do.
@@ -113,7 +119,8 @@ Mobile phones on silent.
 Everyone has equal voice and valuable contribution.
 Keep your language and tone professional at all times.
 Be honest.
-Communication
+
+# Communication
 Slack is the preferred method of communication.
 Communication in this order: <<list tools in preferred order>>
 If a demonstration is required use Zoom, record the session and upload to the Slack channel.
@@ -129,7 +136,7 @@ Don’t interrupt and cut another person off while they are talking.
 Listen when someone is talking, don’t interject.
 Zero tolerance for bullying.
 
-Agile way of working.
+# Agile way of working.
 If are assigned a job, take ownership of it and keep it up to date.
 Stick to your agreed working patterns. Let the team know when you are late or going early.
 Keep JIRA board updated at all times.
@@ -145,12 +152,12 @@ Each member of the team will work <<hours>> per week, unless they are on vacatio
 Branching Strategy
 <<list the branches>>
 
-Estimating Story Points
+# Estimating Story Points
 The teams team's velocity is calculated by the number of story points we achieve on average in the previous sprints.
 
 The teams current story point velocity is "N/A".
 
-Definition of Ready
+# Definition of Ready
 Story is pointed
 Enough information to start
 Acceptance criteria is defined
