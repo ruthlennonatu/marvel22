@@ -29,7 +29,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 <>
 
 # Product Owner
-<>
+Oisín Gilmartin - L00153318
 
 # Rockstars
 <>
@@ -85,6 +85,7 @@ Dedication to clean, secure, performant and self documented code
     performance testing tool to be used
 Documentation / code commenting (javadoc)/seperate branch
 Datastore for persistence
+The code framework to be used will be Java, we will be programming using the app IntelliJ
 
 # Testing:
     Unit testing
@@ -103,7 +104,7 @@ Datastore for persistence
 
 # Social Contract
 # Meetings
-Stand-ups will occur on Every <<Date/Time >> during class and <<Date/Time>> using Automated bot.
+Stand-ups will occur on Every <<Thursday/12:30-1:30>> during class and <<Thursday/12:30-1:30>> using Automated bot.
 The order that people give their updates will be based on <<specify how you chose the order>> of those present at the meeting.
 Updates will be in the form: What I've done, Impediments, What I plan to do.
 Sprint planning will occur <<Day/time>> at the end of our sprint <in person/which tool?>.
