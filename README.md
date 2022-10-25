@@ -84,13 +84,6 @@ These are the current Risks on the project, re-aligned on a weekly basis
 
 
 # Tenants of Design
-Dedication to clean, secure, performant and self documented code
-    code Frameworks used
-    code coverage tool used
-    Secure code: Regex for cleansing and validation, Named queries and database triggers
-    performance testing tool to be used
-Documentation / code commenting (javadoc)/seperate branch
-Datastore for persistence
 The code framework to be used will be Java, we will be programming using the app IntelliJ
 
 # Testing:
