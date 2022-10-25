@@ -85,6 +85,7 @@ Dedication to clean, secure, performant and self documented code
     performance testing tool to be used
 Documentation / code commenting (javadoc)/seperate branch
 Datastore for persistence
+The code framework to be used will be Java, we will be programming using the app IntelliJ
 
 # Testing:
     Unit testing
