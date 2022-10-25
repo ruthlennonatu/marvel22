@@ -103,6 +103,17 @@ The code framework to be used will be Java, we will be programming using the app
 # Agile project management methods/principles (jira)
 
 # Social Contract
+    Mobile phones be left on silent during sprint sessions and class time.
+    Be on time for team meetings and class, if you are running late let the group know by sending a message into the Slack channel.
+    Everyone has an equal voice and valuable contribution.
+    When you are assigned a job, take ownership of it and keep it up to date, do not be afraid to ask others for help, always be honest about your work.
+    Do not speak over someone when they are expressing a point, everyone has an equal voice.
+    No blame culture.
+    Do not be afraid to ask for help, we are all learning.
+    No invisble work.
+    Ask questions to make sure you understand the task given to you.
+    Try have some fun, team work makes the dream work.
+
 # Meetings
 Stand-ups will occur on Every <<Thursday/12:30-1:30>> during class and <<Thursday/12:30-1:30>> using Automated bot.
 The order that people give their updates will be based on <<specify how you chose the order>> of those present at the meeting.
