@@ -32,9 +32,16 @@ Week5 ScrumMaster Niall Sheridan - L00147371
 Oisín Gilmartin - L00153318
 
 # Rockstars
-<>
-<>
-<>
+Niall Sheridan
+Eoghan Casey
+Oisín Gilmartin
+Shane Russell
+Conor Aitken
+Shaun Curran
+Darragh Johnston
+Darren Edwards
+Jing Ming Yeoh
+
 
 # Project Deadline
 Refer to BB for deadlines
