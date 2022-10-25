@@ -53,9 +53,8 @@ Named queries and database triggers for security
 Regex for cleansing and validation of data before sending to the database.
 
 # Useful Links
-Project Slack: <>
-GitHub: <>
-Jira: <>
+Project Slack: https://atudevops.slack.com
+GitHub: https://github.com/ruthlennonatu/marvel22
 
 # More Information
 For more information visit our other sections
