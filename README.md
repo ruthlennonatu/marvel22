@@ -127,7 +127,7 @@ Updates will be in the form: What I've done, Impediments, What I plan to do.
 Sprint planning will occur <<Day/time>> at the end of our sprint <in person/which tool?>.
 Please add and update items within <<issue management tool>> a prior to the sprint planning session.
 Sprint retro will at the end of our sprint on <<Date/Time>> (timebox retro for 15 minutes, to be organised by the scrum master).
-The order that people present their sprint retro updates will be based on <<specify how you chose the order>> of those present at the meeting.
+The order that people present their sprint retro updates will be based on <<The Team 1 list in the Assign_BSc_DevOps_2022.pdf file on blackboard>> of those present at the meeting.
 Points raised in the sprint retro will be noted and posted on the slack channel by the Scrum Master. The Scrum Master is rotated per team member every week.
 Backlog refinement will happen on <<date/time>> during our sprint.
 Task estimation will be done using <<specify tool/mechanism>>. 
@@ -181,7 +181,7 @@ Enough information to start
 Acceptance criteria is defined
 Definition of Done
 Code
-Min of <<how many?>> reviewers
+Min of <<3>> reviewers
 Merged into main
 Deployed successfully
 Deployment Tested
