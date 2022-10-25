@@ -29,7 +29,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 <>
 
 # Product Owner
-<>
+Oisín Gilmartin - L00153318
 
 # Rockstars
 <>
