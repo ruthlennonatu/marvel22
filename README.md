@@ -32,15 +32,15 @@ Week5 ScrumMaster Niall Sheridan - L00147371
 Oisín Gilmartin - L00153318 (Permanent)
 
 # Rockstars
-Niall Sheridan L00147371
-Eoghan Casey
-Oisín Gilmartin
-Shane Russell
-Conor Aitken
-Shaun Curran
-Darragh Johnston
-Darren Edwards
-Jing Ming Yeoh
+Niall Sheridan L00147371,
+Eoghan Casey,
+Oisín Gilmartin,
+Shane Russell,
+Conor Aitken,
+Shaun Curran,
+Darragh Johnston,
+Darren Edwards,
+Jing Ming Yeoh,
 
 
 # Project Deadline
@@ -114,7 +114,7 @@ The code framework to be used will be Java, we will be programming using the app
     Try have some fun, team work makes the dream work.
 
 # Meetings
-Stand-ups will occur on Every <<Thursday/12:30-1:30>> during class and <<Thursday/12:30-1:30>> using Automated bot.
+Stand-ups will occur on Every Thursday/12:30-1:30 during class and Thursday/12:30-1:30 using Automated bot.
 The order that people give their updates will be based on <<specify how you chose the order>> of those present at the meeting.
 Updates will be in the form: What I've done, Impediments, What I plan to do.
 Sprint planning will occur <<Day/time>> at the end of our sprint <in person/which tool?>.
