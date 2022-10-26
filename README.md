@@ -27,20 +27,21 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 
 # Scrum Master
 Week5 ScrumMaster Niall Sheridan - L00147371
+Week6 ScrumMaster Eoghan Casey - L00150638
 
 # Product Owner
 Oisín Gilmartin - L00153318 (Permanent)
 
 # Rockstars
 Niall Sheridan L00147371,
-Eoghan Casey,
-Oisín Gilmartin,
-Shane Russell,
-Conor Aitken,
-Shaun Curran,
-Darragh Johnston,
-Darren Edwards,
-Jing Ming Yeoh,
+Eoghan Casey L00150638,
+Oisín Gilmartin L00153318,
+Shane Russell L00151942,
+Conor Aitken L00159162,
+Shaun Curran L00149334,
+Darragh Johnston L00157346,
+Darren Edwards L00149822,
+Jing Ming Yeoh L00155848,
 
 
 # Project Deadline
