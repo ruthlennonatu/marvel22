@@ -8,11 +8,11 @@ String userName;
 String passWord;
 
 Scanner userN = new Scanner(System.in);
-System.out.println("Please Enter Username : ");
+System.out.println("Please Enter a Username : ");
 userName = userN.next();
 
 Scanner pass = new Scanner(System.in);
-System.out.println("Please Enter Password : ");
+System.out.println("Please Enter a Password : ");
 passWord = pass.next();
 
 if (userName.equals(userN) && passWord.equals(pass)){
