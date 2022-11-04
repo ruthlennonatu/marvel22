@@ -26,8 +26,14 @@ This is the online repository for the DevOps Assignment.
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
 # Scrum Master
-Week5 ScrumMaster Niall Sheridan - L00147371
-Week6 ScrumMaster Eoghan Casey - L00150638
+- Week 5 Scrum Master Niall Sheridan - L00147371
+- Week 6 Scrum Master Eoghan Casey - L00150638
+- Week 7 Scrum Master Shane Russell - L00151942
+- Week 8 Scrum Master Conor Aitken - L00159162
+- Week 9 Scrum Master Shaun Curran - L00149334
+- Week 10 Scrum Master Darragh Johnston - L00157346
+- Week 11 Scrum Master Darren Edwards - L00149822
+- Week 12 Scrum Master Jing Ming Yeoh - L00155848
 
 # Product Owner
 Oisín Gilmartin - L00153318 (Permanent)
