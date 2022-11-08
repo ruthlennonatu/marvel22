@@ -26,15 +26,29 @@ This is the online repository for the DevOps Assignment.
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
 # Scrum Master
-<>
+- Week 5 Scrum Master Niall Sheridan - L00147371
+- Week 6 Scrum Master Eoghan Casey - L00150638
+- Week 7 Scrum Master Shane Russell - L00151942
+- Week 8 Scrum Master Conor Aitken - L00159162
+- Week 9 Scrum Master Shaun Curran - L00149334
+- Week 10 Scrum Master Darragh Johnston - L00157346
+- Week 11 Scrum Master Darren Edwards - L00149822
+- Week 12 Scrum Master Jing Ming Yeoh - L00155848
 
 # Product Owner
-Oisín Gilmartin - L00153318
+Oisín Gilmartin - L00153318 (Permanent)
 
 # Rockstars
-<>
-<>
-<>
+Niall Sheridan L00147371,
+Eoghan Casey L00150638,
+Oisín Gilmartin L00153318,
+Shane Russell L00151942,
+Conor Aitken L00159162,
+Shaun Curran L00149334,
+Darragh Johnston L00157346,
+Darren Edwards L00149822,
+Jing Ming Yeoh L00155848,
+
 
 # Project Deadline
 Refer to BB for deadlines
@@ -77,13 +91,6 @@ These are the current Risks on the project, re-aligned on a weekly basis
 
 
 # Tenants of Design
-Dedication to clean, secure, performant and self documented code
-    code Frameworks used
-    code coverage tool used
-    Secure code: Regex for cleansing and validation, Named queries and database triggers
-    performance testing tool to be used
-Documentation / code commenting (javadoc)/seperate branch
-Datastore for persistence
 The code framework to be used will be Java, we will be programming using the app IntelliJ
 
 # Testing:
@@ -102,14 +109,25 @@ The code framework to be used will be Java, we will be programming using the app
 # Agile project management methods/principles (jira)
 
 # Social Contract
+    Mobile phones be left on silent during sprint sessions and class time.
+    Be on time for team meetings and class, if you are running late let the group know by sending a message into the Slack channel.
+    Everyone has an equal voice and valuable contribution.
+    When you are assigned a job, take ownership of it and keep it up to date, do not be afraid to ask others for help, always be honest about your work.
+    Do not speak over someone when they are expressing a point, everyone has an equal voice.
+    No blame culture.
+    Do not be afraid to ask for help, we are all learning.
+    No invisble work.
+    Ask questions to make sure you understand the task given to you.
+    Try have some fun, team work makes the dream work.
+
 # Meetings
-Stand-ups will occur on Every <<Thursday/12:30-1:30>> during class and <<Thursday/12:30-1:30>> using Automated bot.
+Stand-ups will occur on Every Thursday/12:30-1:30 during class and Thursday/12:30-1:30 using Automated bot.
 The order that people give their updates will be based on <<specify how you chose the order>> of those present at the meeting.
 Updates will be in the form: What I've done, Impediments, What I plan to do.
 Sprint planning will occur <<Day/time>> at the end of our sprint <in person/which tool?>.
 Please add and update items within <<issue management tool>> a prior to the sprint planning session.
 Sprint retro will at the end of our sprint on <<Date/Time>> (timebox retro for 15 minutes, to be organised by the scrum master).
-The order that people present their sprint retro updates will be based on <<specify how you chose the order>> of those present at the meeting.
+The order that people present their sprint retro updates will be based on <<The Team 1 list in the Assign_BSc_DevOps_2022.pdf file on blackboard>> of those present at the meeting.
 Points raised in the sprint retro will be noted and posted on the slack channel by the Scrum Master. The Scrum Master is rotated per team member every week.
 Backlog refinement will happen on <<date/time>> during our sprint.
 Task estimation will be done using <<specify tool/mechanism>>. 
@@ -163,7 +181,7 @@ Enough information to start
 Acceptance criteria is defined
 Definition of Done
 Code
-Min of <<how many?>> reviewers
+Min of <<3>> reviewers
 Merged into main
 Deployed successfully
 Deployment Tested
