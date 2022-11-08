@@ -163,12 +163,11 @@ Don't be afraid to ask for help.
 Don't be afraid to give constructive criticism, as long as it is constructive.
 Solve roadblocks within the team. If the impediment can’t be solved within the team then give it to the Scrum Master.
 Other
-Sprints will start <<date/time>>.
+Sprints will start after the stand up that happens at the start of class each week.
 The Scrum Master role rotates each week, the schedule is available on the on the process section
-<<Tool>> will be used for task management and planning.
-Each member of the team will work <<hours>> per week, unless they are on vacation.
-Branching Strategy
-<<list the branches>>
+Poker Planner will be used for task management and planning.
+Each member of the team will work approximitely 3 hours per week, unless they are on vacation.
+Our branching stategy will start with gh then the issue number followed by wip
 
 # Estimating Story Points
 The teams team's velocity is calculated by the number of story points we achieve on average in the previous sprints.
