@@ -39,15 +39,15 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 Oisín Gilmartin - L00153318 (Permanent)
 
 # Rockstars
-Niall Sheridan L00147371,
-Eoghan Casey L00150638,
-Oisín Gilmartin L00153318,
-Shane Russell L00151942,
-Conor Aitken L00159162,
-Shaun Curran L00149334,
-Darragh Johnston L00157346,
-Darren Edwards L00149822,
-Jing Ming Yeoh L00155848,
+ - Niall Sheridan L00147371
+ - Eoghan Casey L00150638
+ - Oisín Gilmartin L00153318
+ - Shane Russell L00151942
+ - Conor Aitken L00159162
+ - Shaun Curran L00149334
+ - Darragh Johnston L00157346
+ - Darren Edwards L00149822
+ - Jing Ming Yeoh L00155848
 
 
 # Project Deadline
@@ -67,8 +67,8 @@ Named queries and database triggers for security
 Regex for cleansing and validation of data before sending to the database.
 
 # Useful Links
-Project Slack: https://atudevops.slack.com
-GitHub: https://github.com/ruthlennonatu/marvel22
+ - Project Slack: https://atudevops.slack.com
+ - GitHub: https://github.com/ruthlennonatu/marvel22
 
 # More Information
 For more information visit our other sections
