@@ -122,15 +122,15 @@ The code framework to be used will be Java, we will be programming using the app
 
 # Meetings
 Stand-ups will occur on Every Thursday/12:30-1:30 during class and Thursday/12:30-1:30 using Automated bot.
-The order that people give their updates will be based on <<specify how you chose the order>> of those present at the meeting.
+The order that people give their updates will be based starting with the scrum master and going clockwise around the group of those present at the meeting.
 Updates will be in the form: What I've done, Impediments, What I plan to do.
-Sprint planning will occur <<Day/time>> at the end of our sprint <in person/which tool?>.
+Sprint planning will occur at the start of class every week at the end of our sprint.
 Please add and update items within <<issue management tool>> a prior to the sprint planning session.
 Sprint retro will at the end of our sprint on <<Date/Time>> (timebox retro for 15 minutes, to be organised by the scrum master).
-The order that people present their sprint retro updates will be based on <<The Team 1 list in the Assign_BSc_DevOps_2022.pdf file on blackboard>> of those present at the meeting.
+The order that people present their sprint retro updates will be based on The Team 1 list in the Assign_BSc_DevOps_2022.pdf file on blackboard of those present at the meeting.
 Points raised in the sprint retro will be noted and posted on the slack channel by the Scrum Master. The Scrum Master is rotated per team member every week.
 Backlog refinement will happen on <<date/time>> during our sprint.
-Task estimation will be done using <<specify tool/mechanism>>. 
+Task estimation will be done using poker planner. 
 Come prepared to meetings.
 Be on time for Stand Ups and meetings.
 Mobile phones on silent.
