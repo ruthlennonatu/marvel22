@@ -119,6 +119,7 @@ The code framework to be used will be Java, we will be programming using the app
     No invisble work.
     Ask questions to make sure you understand the task given to you.
     Try have some fun, team work makes the dream work.
+    Use Agile methodoligies in the project at all times.
 
 # Meetings
 Stand-ups will occur on Every Thursday/12:30-1:30 during class and Thursday/12:30-1:30 using Automated bot.
