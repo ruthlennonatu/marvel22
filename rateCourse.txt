@@ -8,5 +8,5 @@ class rateCourse{
         //review = reviewTextBox.Text; 
         //(Code for adding ratingScore and review to array with all the others)}
 
-        System.out.println("Thank you for your feedback."); 
+        System.out.println("Thank you for your feedback.");  
     }
