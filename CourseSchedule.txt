@@ -1,0 +1,4 @@
+class CourseSchedule{
+    public static void main(String[] args) {
+        System.out.println("This is the code for viewing course schedule/timetable"); 
+    }
