@@ -1,0 +1,10 @@
+Use safe Libraries
+Use hash passwords
+Error Handle
+Keep code simple
+Prevent injection attacks
+	Stop concatenating arguments
+	Use prepared statements
+	Avoid user-supplied input
+Prevent cross-site scripting by filtering inputs with a white list of characters
+Consult experts on the topic

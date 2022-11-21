@@ -1,0 +1,12 @@
+class rateCourse{
+    public static void main(String[] args) {
+        int ratingScore; //1-5
+        string review;
+
+        //submitButton.Click{
+        //ratingScore = Convert.ToInt32(ratingDropdownBox.Text);
+        //review = reviewTextBox.Text; 
+        //(Code for adding ratingScore and review to array with all the others)}
+
+        System.out.println("Thank you for your feedback.");  
+    }

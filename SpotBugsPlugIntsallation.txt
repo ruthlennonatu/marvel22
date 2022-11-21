@@ -1,0 +1,13 @@
+Requirements
+To use the SpotBugs Plugin for Eclipse, you need Eclipse Neon (4.6) or later.
+
+To get started go to the Help icon and then click on the  Eclipse marketplace and type in spotBugs in the search
+ bar once it appears install it. 
+When it has installed eclipse will need to restart.
+Next up go to the window icon and click on preferences then click on java you will see spotBugs is there
+select what preferences you would like to have apply and close.
+
+To get started then, right click on a Java project in Package Explorer, and select the option labeled “Spot Bugs”. 
+SpotBugs will run, and problem markers (displayed in source windows, and also in the Eclipse Problems view) 
+will point to locations 
+in your code which have been identified as potential instances of bug patterns.
