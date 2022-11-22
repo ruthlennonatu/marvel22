@@ -1,0 +1,56 @@
+GDPR data privacy
+
+Article 12 — Transparency and communication
+You have to explain how you process data in “a concise, transparent, 
+intelligible and easily accessible form, using clear and plain language”. You must 
+also make it easy for people to make requests to you (e.g., a right to erasure 
+request, etc.) and respond to those requests quickly and adequately.
+
+Articles 13 & 14 — When collecting personal data
+At the moment you collect personal data from a user, you need to communicate 
+specific information to them. If you don’t collect the information directly from 
+the user, you are still required to provide them with similar information. These 
+articles list the exact information you have to provide.
+
+Article 15 — Right of access
+Data subjects have the right to know certain information about the processing 
+activities of a data controller. This information includes the source of their 
+personal data, the purpose of processing, and the length of time the data will be 
+held, among other items. Most importantly, they have a right to be provided with 
+the personal data of theirs that you’re processing.
+
+Article 16 — Accuracy
+The accuracy of the data you process is only tangentially an aspect of data privacy, 
+but people have a right to correct inaccurate or incomplete personal data that you 
+are processing.
+
+Article 17 — Right to erasure
+Also known as the “right to be forgotten,” data subjects have the right to request 
+that you delete any information about them that you have. There are five exemptions 
+to this right, including when processing their data is necessary to exercise your 
+right to freedom of expression. You must make it simple for data subjects to file 
+right to erasure requests.
+
+Article 18 — Right to restrict processing
+Short of asking you to erase their data, data subjects can request that you 
+temporarily change the way you process their data (such as removing it temporarily 
+from your website) if they believe the information is inaccurate, is being used 
+illegally, or is no longer needed by the controller for the purposes claimed. The 
+data subject has the right to simply object to your processing of their data as 
+well. Also important to note: If you decide to take any action related to Articles 
+16, 17, or 18, then Article 19 requires you to notify the data subject.
+
+Article 20 — Data portability
+Remember that data privacy is the measure of control that people have over who can 
+access their personal information. In line with this principle, the GDPR contains a 
+novel data privacy requirement known as data portability. Basically, you have to 
+store your users’ personal data in a format that can be easily shared with others 
+and understood. Moreover, if someone asks you to send their data to a designated 
+third party, you have to do it (if technically feasible), even if it’s one of your 
+competitors.
+
+Article 21 — Right to object
+Data subjects have the right to object to you processing their data. You can only 
+override their objection by demonstrating the legitimate basis for using their data.
+
+-As retrieved from gdpr.eu
