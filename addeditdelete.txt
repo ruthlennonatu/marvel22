@@ -1,0 +1,52 @@
+import java.util.*;
+public class addEditDelete {
+	public static void main(String[] args) { 
+		ArrayList<String> customer = new ArrayList<String>();
+		Scanner keyIn = new Scanner (System.in);
+
+		customer.add("Jane");
+		customer.add("Bane");
+		customer.add("Dom");
+		int state = 0;
+		{
+			System.out.println("Please select what you want to do");
+			System.out.println("1. Add a customer");
+			System.out.println("2. Edit a customer");
+			System.out.println("3. Delete a customer");
+			System.out.println("0. Exist");
+			state = keyIn.nextInt();
+			
+			switch(state)
+			{
+				case 1: System.out.println("Please enter the customer name you wish to add to the database");
+				String input =keyIn.nextLine();
+				customer.add(input);
+				break;
+				
+				case 2: System.out.println("Please enter the number of the person you wish to edit in the database");
+				for(int i=0; i<customer.size(); i++)
+				{
+					System.out.println(i + ", " +customer.get(i));
+				}
+				
+				int editId = keyIn.nextInt();	
+				System.out.println("Please enter the changes for this ID");
+				String edit = keyIn.nextLine();
+				customer.set(editId-1, edit);
+ 
+				break;
+				
+				case 3: System.out.println("Please enter the number of the person you wish to remove from the database");
+				for(int i=0; i<customer.size(); i++)
+				{
+					System.out.println(i + ", " +customer.get(i));
+				}
+				int removeId = keyIn.nextInt();
+				customer.remove(removeId+1);				
+
+				break;
+			}
+		}while(state!=0);  
+	}
+}
+
