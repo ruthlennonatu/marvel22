@@ -60,7 +60,7 @@ Includes at least one self developed api and one webservice
 To be run over <specify platform>
 
 # Frameworks
-Database
+We will be using MongoDB for our database
 Database persistence technology
 Define the buisness Requirements
 Named queries and database triggers for security
@@ -181,7 +181,7 @@ Enough information to start
 Acceptance criteria is defined
 Definition of Done
 Code
-Min of <<3>> reviewers
+Min of 1 reviewer
 Merged into main
 Deployed successfully
 Deployment Tested
