@@ -93,6 +93,9 @@ These are the current Risks on the project, re-aligned on a weekly basis
 # Tenants of Design
 The code framework to be used will be Java, we will be programming using the app IntelliJ
 
+#Security
+SpotBugs - uses static analysis to find bugs in java code. 
+
 # Testing:
     Unit testing
     integration testing
