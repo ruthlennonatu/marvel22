@@ -95,6 +95,7 @@ The code framework to be used will be Java, we will be programming using the app
 
 #Security
 SpotBugs - uses static analysis to find bugs in java code. 
+ Pmd
 
 # Testing:
     Unit testing
