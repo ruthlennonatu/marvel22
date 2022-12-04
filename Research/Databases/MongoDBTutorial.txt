@@ -1,0 +1,23 @@
+This is a short tutorial on how to download and set up MongoDB.
+
+1.First, head over to MongoDB official page "https://www.mongodb.com/try/download/community" and download the community version.
+2.After downloading MongoDB community server setup, you’ll go through a ‘next after next’ installation process. Once done, head over to the C drive in which you have installed MongoDB. Go to program files and select the MongoDB directory.
+3.Open up your command prompt inside your C drive and do the following to set up a server and DB.The purpose of these directories is MongoDB requires a folder to store all data.
+ -'C:\> mkdir data/dbC:\> cd dataC:\> mkdir db'
+4.After creating those two files, head over again to the bin folder you have in your mongodb directory and open up your shell inside it. Run the following command.
+ -'mongod'
+5.In order to work with this server, you will need a mediator. So open another command window inside the bind folder and run the following command.
+ - 'mongo'
+6.After running this command, navigate to the shell which we ran mongod command (which is the server).
+-'db'
+7.To set up Enviroment Variables run the following command. This may differ from where you saved your path to.
+ -'C:\Program Files\MongoDB\Server\4.0\bin'.
+
+That is the basics on getting MongoDB up and running.
+
+To view the current database you're in run the following command.
+-'db'
+To list your databases.
+-'show databases'
+To go to a particular database.
+-'use <your_db_name>'

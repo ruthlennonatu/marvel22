@@ -1,0 +1,19 @@
+class viewStudents{
+    public static void main(String[] args) {
+        string courseName;
+        
+	
+
+        //submitButton.Click{
+	//if(user.privID == "Admin")
+	//{ 
+        //	username = usernameTextBox.Text;
+	//	System.out.println(DB.courses.courseName.get(students));
+        //	(Code for adding username and reason for ban of account for administrator access)
+	//}
+	//else{
+        //	System.out.println("No admin privileges on this account. Returning to homepage."); 
+	//    } 
+	//}	
+    }
+}
