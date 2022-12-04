@@ -34,6 +34,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 - Week 10 Scrum Master Darragh Johnston - L00157346
 - Week 11 Scrum Master Darren Edwards - L00149822
 - Week 12 Scrum Master Jing Ming Yeoh - L00155848
+- Week 13 Scrum Master Oisín Gilmartin - L00153318
 
 # Product Owner
 Oisín Gilmartin - L00153318 (Permanent)
@@ -93,9 +94,10 @@ These are the current Risks on the project, re-aligned on a weekly basis
 # Tenants of Design
 The code framework to be used will be Java, we will be programming using the app IntelliJ
 
-#Security
-SpotBugs - uses static analysis to find bugs in java code. 
- Pmd
+# Security:
+- SpotBugs: uses static analysis to find bugs in java code. 
+ 
+- PMD: Static code anaylsis checking tool. The tool scans Java source files to look for potential vulnerabilities such as coding errors and security flaws. It offers a cheap alternative to the tedious process of continually going over a huge code base. PMD is also capable of detecting other issues, such as dead code and performance issues along with poor code practices and styling. PMD has been installed through GitHub actions to scan code as it is commited.
 
 # Testing:
     Unit testing
