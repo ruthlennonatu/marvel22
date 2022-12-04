@@ -37,7 +37,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 - Week 13 Scrum Master Oisín Gilmartin - L00153318
 
 # Product Owner
-Oisín Gilmartin - L00153318 (Permanent)
+- Oisín Gilmartin - L00153318 (Permanent)
 
 # Rockstars
  - Niall Sheridan L00147371
