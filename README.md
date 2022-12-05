@@ -132,11 +132,11 @@ Stand-ups will occur on Every Thursday/12:30-1:30 during class and Thursday/12:3
 The order that people give their updates will be based starting with the scrum master and going clockwise around the group of those present at the meeting.
 Updates will be in the form: What I've done, Impediments, What I plan to do.
 Sprint planning will occur at the start of class every week at the end of our sprint.
-Please add and update items within <<issue management tool>> a prior to the sprint planning session.
-Sprint retro will at the end of our sprint on <<Date/Time>> (timebox retro for 15 minutes, to be organised by the scrum master).
+Please add and update items within Marvel Board on GitHub prior to the sprint planning session.
+Sprint retro will occur at the end of our sprint on Wednesdays, from 11:00 to 11:30 (timebox retro for 15 minutes, to be organised by the scrum master).
 The order that people present their sprint retro updates will be based on The Team 1 list in the Assign_BSc_DevOps_2022.pdf file on blackboard of those present at the meeting.
 Points raised in the sprint retro will be noted and posted on the slack channel by the Scrum Master. The Scrum Master is rotated per team member every week.
-Backlog refinement will happen on <<date/time>> during our sprint.
+Backlog refinement will happen on Wednesdays at 11:30 to 13:30 during our sprint.
 Task estimation will be done using poker planner. 
 Come prepared to meetings.
 Be on time for Stand Ups and meetings.
@@ -147,9 +147,9 @@ Be honest.
 
 # Communication
 Slack is the preferred method of communication.
-Communication in this order: <<list tools in preferred order>>
+Communication in this order: Slack, WhatsApp, Microsoft Teams.
 If a demonstration is required use Zoom, record the session and upload to the Slack channel.
-No Slack communications between "<after 7:00>" TBD.
+No Slack communications after 7:00pm TBD.
 Raise a problem as soon as you see it.
 Respect each other and understand differences in knowledge.
 All team documents are to be created using Markdown language and shared on GitHub.
