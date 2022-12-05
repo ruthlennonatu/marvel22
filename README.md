@@ -70,6 +70,7 @@ Regex for cleansing and validation of data before sending to the database.
 # Useful Links
  - Project Slack: https://atudevops.slack.com
  - GitHub: https://github.com/ruthlennonatu/marvel22
+ - Download MongoDB here: https://www.mongodb.com/try/download/community
 
 # More Information
 For more information visit our other sections
@@ -149,8 +150,8 @@ Be honest.
 Slack is the preferred method of communication.
 Communication in this order: Slack, WhatsApp, Microsoft Teams.
 If a demonstration is required use Zoom, record the session and upload to the Slack channel.
-No Slack communications after 7:00pm TBD.
-Raise a problem as soon as you see it.
+No Slack communications between 9:00 and 19:00.
+Raise a problem as soon as you see it and send a message into the Slack GroupChat.
 Respect each other and understand differences in knowledge.
 All team documents are to be created using Markdown language and shared on GitHub.
 There are no silly questions, if you don’t understand, ask.
