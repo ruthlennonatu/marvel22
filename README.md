@@ -103,6 +103,7 @@ The code framework to be used will be Java, we will be programming using the app
     Unit testing
     integration testing
     UA
+    API Testing
 # Environments:
     staging and production
     tight configuration management for consistency and reproducibility
