@@ -1,5 +1,0 @@
-You have successfully registered your account with the email {email}.
-
-Please retain this email as a receipt of your account registration.
-
-Thank you.
