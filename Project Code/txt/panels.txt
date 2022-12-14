@@ -1,0 +1,3 @@
+JFrame marvel = new JFrame("Marvel");
+JPanel homePage = new JPanel;
+JPanel movieList = new JPanel;

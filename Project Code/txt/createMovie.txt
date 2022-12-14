@@ -1,0 +1,14 @@
+private List<Movie> movieList = new ArrayList<Movie>();
+
+public class Movie(String nameIn, int durationIn, int budgetIn, String directorIn, String genreIn) {
+	String name = nameIn; 
+	int duration = durationIn;
+	int budget = budgetIn; 
+	string director = directorIn;
+	string genre = genreIn;
+}
+
+public void CreateMovie(String name, int duration, int budget, String director, String genre) {
+	movie movie = new movie(name, duration, budget, director, genre);
+	movieList.add(movie);
+}

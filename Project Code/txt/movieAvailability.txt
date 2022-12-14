@@ -1,0 +1,12 @@
+private static int MAX_Movies = 8;
+private String[] seats = new String[MAX_Movies];
+
+public boolean addMovie(String movie) {
+    for (int i = 0; i < seats.length; i++) {
+        if (seats[i] == null) {
+            seats[i] = movie;
+            return true;
+        }
+    }
+    return false;
+}

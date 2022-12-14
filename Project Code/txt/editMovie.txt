@@ -1,0 +1,7 @@
+public void editMovie(Movie movie, String name, int duration, int budget, String director, String genre) {
+	movie.name = name; 
+	movie.duration = duration;
+	movie.budget = budget;  
+	movie.director = director; 
+	movie.genre = genre;
+}

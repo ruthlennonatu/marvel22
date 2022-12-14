@@ -1,0 +1,4 @@
+class AddNewCourse{
+    public static void main(String[] args) {
+        System.out.println("This is the code for adding a new course"); 
+    }

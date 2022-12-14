@@ -1,0 +1,17 @@
+public static void addCustomer(cust) throws IOException, SQLException {
+ 
+  super.addCustomer(cust);
+
+  int i = 1;
+
+  addCustomerStmt.setString(i++, cust.getfirstName()); 
+  addCustomerStmt.setString(i++, cust.getlastName());
+  addCustomerStmt.setString(i++, cust.getEmail());
+  addCustomerStmt.setString(i++, cust.getPass());
+
+  if (i != 4){
+    System.out.println("Warning!! Not enough details added");
+  }
+
+  addCustomerStmt.executeUpdate();
+}
