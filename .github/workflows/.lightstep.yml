@@ -1,0 +1,2 @@
+- name: Lightstep Pre-Deploy Check
+  uses: lightstep/lightstep-action-predeploy@v0.2.6
