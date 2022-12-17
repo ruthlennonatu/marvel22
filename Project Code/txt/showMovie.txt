@@ -1,3 +1,0 @@
-public void showMovie(Movie movie, String name, int duration, int budget, String director, String genre) {
-	System.out.println("Name: " + name + " duration: " + duration + "budget: " + budget + "director: " + director + "genre: " + genre);
-}
